@@ -70,7 +70,7 @@ solar-system/
 
 ## 🤓 Author
 
-Made with 💛 by [**Ayan Pal**]((https://github.com/student-Ayanpal) 
+Made with 💛 by [**Ayan Pal**][(https://github.com/student-Ayanpal) ]
 This project is part of my journey to master web development through hands-on learning.
 
 ---
