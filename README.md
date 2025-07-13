@@ -49,6 +49,7 @@ Media queries are used to **adjust the scale of the entire solar system** based 
 ## 📂 Folder Structure
 
 solar-system/
+<br>
 │
 <br>
 ├── index.html
