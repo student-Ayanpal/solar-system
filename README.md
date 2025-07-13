@@ -72,7 +72,7 @@ solar-system/
 
 ## 🌐 Live Demo
 
-🔗 [View it on GitHub Pages](https://your-username.github.io/solar-system/)
+🔗 [View it on GitHub Pages]([https://your-username.github.io/solar-system/](https://student-ayanpal.github.io/solar-system/))
 
 
 ---
