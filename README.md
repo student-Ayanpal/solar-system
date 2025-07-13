@@ -50,13 +50,21 @@ Media queries are used to **adjust the scale of the entire solar system** based 
 
 solar-system/
 │
+<br>
 ├── index.html
+<br>
 ├── style.css
+<br>
 ├── script.js
+<br>
 ├── sun.jpeg
+<br>
 ├── mercury_final.png
+<br>
 ├── venus_final.png
+<br>
 ├── ...
+<br>
 └── pluto_final.png
 
 ---
@@ -70,7 +78,8 @@ solar-system/
 
 ## 🤓 Author
 
-Made with 💛 by [**Ayan Pal**][(https://github.com/student-Ayanpal) ]
+Made with 💛 by [**Ayan Pal**](https://github.com/student-Ayanpal) 
+<br>
 This project is part of my journey to master web development through hands-on learning.
 
 ---
